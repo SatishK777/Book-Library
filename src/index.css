@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#root{
+    background-image: url(../assets/library-book.jpg);
+   
+}
+
+body {
+  overflow-x: hidden;
+  background-color: whitesmoke;
+}
+
+.d-flex {
+  justify-content: flex-end;
+}
+
+.col {
+  padding: 0;
+}
+
+/* .p-left {
+    padding-left: .5rem;
+}
+
+.p-right {
+    padding-right: .5rem;
+} */
+
+.row {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+
+.container {
+  width: 1140px;
+  position: relative;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+
+
+.btn {
+  color: whitesmoke;
+  background-color: #65447A;
+  border-color: #65447A;
+}
+
+
+
+.btn-up,
+.btn-down {
+  padding: 0;
+  background-color: transparent;
+  border: 0;
+  color: #65447A;
+}
+
+.btn-up:hover,
+.btn-down:hover {
+  background-color: transparent;
+  border: 0;
+  color: #65447A;
+}
+
+
+
+.btn-update:hover {
+  background-color: lightgoldenrodyellow;
+  color: darkslategray;
+}
+
+.btn-delete:hover {
+  background-color: lightcoral;
+  color: darkslategray;
+}
+
+.btn-submit {
+  letter-spacing: 1px;
+}
+

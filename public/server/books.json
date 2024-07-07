@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": "7172",
+      "title": "To kill",
+      "author": "harper lee",
+      "genre": "fiction",
+      "publicationYear": "1960"
+    },
+    {
+      "id": "0485",
+      "title": "pride",
+      "author": "jane austen",
+      "genre": "romance",
+      "publicationYear": "1813"
+    },
+    {
+      "id": "6487",
+      "title": "the great gats",
+      "author": "scott ft",
+      "genre": "fiction",
+      "publicationYear": "1925"
+    },
+    {
+      "id": "0958",
+      "title": "moby-dick",
+      "author": "hermen melville",
+      "genre": "adventurer",
+      "publicationYear": "1851"
+    },
+    {
+      "id": "9690",
+      "title": "war and peace",
+      "author": "leo tolstory",
+      "genre": "historical fiction",
+      "publicationYear": "1869"
+    },
+    {
+      "id": "0017",
+      "title": "the hobbit",
+      "author": "j.r.r tolkien",
+      "genre": "fantasy",
+      "publicationYear": "1937"
+    }
+  ]
+}
